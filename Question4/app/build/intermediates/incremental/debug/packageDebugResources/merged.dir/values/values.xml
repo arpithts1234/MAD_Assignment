@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="blue">#3F51B5</color>
+    <color name="prussian">#00BCD4</color>
+    <string name="app_name">GoogleApp</string>
+    <string name="google_client_id">193523962456-ap4nn63cdfbqbsup4c5ot8d530k63eul.apps.googleusercontent.com</string>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+        <item name="colorPrimary">#008577</item>
+        <item name="colorPrimaryVariant">#00574B</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <item name="colorSecondary">#D81B60</item>
+        <item name="colorSecondaryVariant">#A00037</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="Base.Theme.GoogleApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.GoogleApp" parent="Base.Theme.GoogleApp"/>
+</resources>
