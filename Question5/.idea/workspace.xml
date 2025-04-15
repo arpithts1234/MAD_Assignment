@@ -9,7 +9,17 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0b3cfcd-23e7-48d8-b804-8f4d87c9ecfe" name="Changes" comment="changed colors" />
+    <list default="true" id="5c6b6cc2-ca53-4762-8eee-2fe3e7755d4f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/caches/deviceStreaming.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/migrations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Question4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Question4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,29 +38,29 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  "associatedIndex": 3
 }]]></component>
-  <component name="ProjectId" id="2vlrHHlBVPtkA8BUCPPjmcO1xkv" />
+  <component name="ProjectId" id="2vlszrQwhHq5ES2LvAfHkq0ek6A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Android App.app.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/arpitrajverma/Desktop/MAD_Assignment/Question4"
+    "last_opened_file_path": "/Users/arpitrajverma/Desktop/MAD_Assignment/Question5"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="GoogleApp.app" />
+      <module name="Photoapp.app" />
       <option name="ANDROID_RUN_CONFIGURATION_SCHEMA_VERSION" value="1" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -124,50 +134,25 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c0b3cfcd-23e7-48d8-b804-8f4d87c9ecfe" name="Changes" comment="" />
-      <created>1744730413286</created>
+      <changelist id="5c6b6cc2-ca53-4762-8eee-2fe3e7755d4f" name="Changes" comment="" />
+      <created>1744731262177</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1744730413286</updated>
+      <updated>1744731262177</updated>
     </task>
-    <task id="LOCAL-00001" summary="changed colors">
-      <option name="closed" value="true" />
-      <created>1744730717730</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1744730717730</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Question 4 assignment" />
-    <MESSAGE value="changed colors" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed colors" />
   </component>
   <component name="play_dynamic_filters_status">
     <option name="appIdToCheckInfo">
       <map>
-        <entry key="com.example.googleapp">
+        <entry key="com.example.photoapp">
           <value>
-            <CheckInfo lastCheckTimestamp="1744730501967" />
+            <CheckInfo lastCheckTimestamp="1744731466052" />
           </value>
         </entry>
-        <entry key="com.example.googleapp.test">
+        <entry key="com.example.photoapp.test">
           <value>
-            <CheckInfo lastCheckTimestamp="1744730501944" />
+            <CheckInfo lastCheckTimestamp="1744731466043" />
           </value>
         </entry>
       </map>
